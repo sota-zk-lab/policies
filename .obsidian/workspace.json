@@ -8,26 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57db8738b8fc69ad",
+            "id": "f4acba4cf1e2ffd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "members/tranduy1dol.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9ed2c4d9626df331",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -93,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "members/tranduy1dol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "members/tranduy1dol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "members/tranduy1dol.md"
               }
             }
           },
@@ -163,29 +156,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false,
+      "audio-recorder:Bắt đầu/Dừng ghi âm": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "57db8738b8fc69ad",
+  "active": "f4acba4cf1e2ffd0",
   "lastOpenFiles": [
+    "members/README.md",
+    "members/tranduy1dol.md",
+    "README.md",
+    "tasking.md",
+    "meetings.md",
+    "planning.md",
+    "punishment.md",
+    "policies.md",
+    "members/sonntuet1997.md",
     "onboarding_checklist.md",
     "members/images/sonntuet1997.png",
-    "members/sonntuet1997.md",
     "members/images",
-    "members/README.md",
     "members",
-    "punishment.md",
-    "planning.md",
-    "meetings.md",
-    "policies.md",
     "programming.md",
     "Untitled.md",
     "articles/proofs-arguments-and-zero-knowledge/facts/fundamental_theorem_of_algebra.md",
@@ -201,7 +197,6 @@
     "terms/succinct.md",
     "terms/zkp.md",
     "index.md",
-    "README.md",
     "Untitled.canvas",
     "2023-12-15.md",
     "articles/seminar-innovative-internet-technologies/attachments",
@@ -213,8 +208,6 @@
     "Screenshot 2023-12-12 at 02.49.01.png",
     "articles/proofs-arguments-and-zero-knowledge/proofs-arguments-and-zero-knowledge.md",
     "articles/seminar-innovative-internet-technologies/NET-2022-07-1_08.pdf",
-    "terms/zkSTARK.md",
-    "terms/trapdoor_function.md",
     "terms/zkp.png",
     "terms/non_interactive_zkp.png",
     "Screenshot 2023-12-13 at 22.58.06.png",
